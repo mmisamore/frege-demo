@@ -1,0 +1,8 @@
+--- Documentation for HelloFrege
+module HelloFrege where
+
+--- Documentation for greeting
+greeting = "Hello Frege"
+
+main _ = do
+    println greeting

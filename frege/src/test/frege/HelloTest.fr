@@ -1,0 +1,4 @@
+module HelloTest where
+
+noop :: () -> ()
+noop x = ()

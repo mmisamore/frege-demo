@@ -1,0 +1,14 @@
+
+apply plugin: "org.frege-lang"
+
+mainClassName = "HelloFrege"
+
+dependencies {
+    compile dep.frege
+    compile dep.nativeGen
+}
+
+fregeNativeGen {
+    className = "java.util.HashSet"
+}
+

@@ -1,0 +1,10 @@
+
+# ignore files
+
+gradle
+.gradle
+.idea
+build
+*.iml
+.DS_Store
+classes

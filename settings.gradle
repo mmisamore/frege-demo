@@ -1,0 +1,4 @@
+rootProject.name = 'frege-demo'
+
+include "frege"
+
