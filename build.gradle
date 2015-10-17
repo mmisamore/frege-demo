@@ -23,7 +23,8 @@ subprojects {
         sonatypeUrl = "https://oss.sonatype.org/content/groups/public"
 
         dep = [
-            frege: "org.frege-lang:frege:3.22.367-g2737683",
+            frege: "org.frege-lang:frege:3.23.288-gaa3af0c",
+            // frege: "org.frege-lang:frege:3.22.367-g2737683",
             // frege: "org.frege-lang:frege:3.22.524-gcc99d7e"
             // frege: "org.frege-lang:frege:3.23.288-gaa3af0c"
             nativeGen: "org.frege-lang:frege-native-gen:1.3",
